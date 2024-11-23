@@ -41,7 +41,7 @@ function Navbar() {
         <img src="/Images/icons/wishlist.png" alt="" />
         <img src="/Images/icons/cart.png" alt="" />
         <img src="/Images/icons/wallet.png" alt="" />
-        <img src="/Images/icons/profile.png" alt="Profile" />
+        <img src="/navbar/Images/icons/profile.png" alt="Profile" />
         </div>
     </nav>
        
